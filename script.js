@@ -16,7 +16,7 @@ $(document).ready(function() {
             width: 256,
             height: 256,
             colorDark: color,
-            colorLight: "#333333",
+            colorLight: "#FFFFFF",
             correctLevel: QRCode.CorrectLevel.H,
         });
 
